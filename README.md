@@ -2,7 +2,6 @@
 
 <br>
 <br>
-<br>
 
 ### GET API
 
@@ -12,7 +11,6 @@
 - 127.0.0.1:8081/luckydraw/winners
 - 127.0.0.1:8081/luckydraw/winners?rangeInDays=\<int>
 
-<br>
 <br>
 
 ### POST API
