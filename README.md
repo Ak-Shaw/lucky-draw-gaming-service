@@ -1,7 +1,6 @@
 <img src = "https://www.mediafire.com/convkey/ca21/ntn4bpkhx3lltu9zg.jpg">
 
 <br>
-<br>
 
 ### GET API
 
