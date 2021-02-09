@@ -7,8 +7,8 @@
 **WINNERS_API**
 
 ##### USAGE:
-- 127.0.0.1:8081/luckydraw/winners
-- 127.0.0.1:8081/luckydraw/winners?rangeInDays=\<int>
+- `127.0.0.1:8081/luckydraw/winners`
+- `127.0.0.1:8081/luckydraw/winners?rangeInDays=\<int>`
 
 <br>
 
@@ -17,10 +17,11 @@
 **RAFFLE_TICKET_API**
 
 ##### USAGE:
-- 127.0.0.1:8081/luckydraw/newRaffleTicket
+- `127.0.0.1:8081/luckydraw/newRaffleTicket`
   - sampleRequestBody(JSON):
-    <br>
-    {<br>
-      &nbsp;&nbsp;"mobileNum": 919831284491,<br>
-      &nbsp;&nbsp;"name": "Ayush Kumar Shaw"<br>
+    ```json
+    {
+      "mobileNum": 919831284491,
+      "name": "Ayush Kumar Shaw"
     }
+    ```
