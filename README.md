@@ -2,6 +2,13 @@
 
 <br>
 
+#### Dependencies
+
+- [Java SE Development Kit 11.0.10](https://www.oracle.com/in/java/technologies/javase-jdk11-downloads.html)
+- [MongoDB](https://docs.mongodb.com/manual/installation/)
+
+<br>
+
 ### GET API
 
 **WINNERS_API**
