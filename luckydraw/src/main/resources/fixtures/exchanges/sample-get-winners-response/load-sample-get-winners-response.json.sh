@@ -1,0 +1,1 @@
+mongoimport --db luckydraw-database --collection winners --drop --jsonArray --file sample-get-winners-response.json
